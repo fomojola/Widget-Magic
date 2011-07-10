@@ -9,4 +9,4 @@ For a sidebar:
     [show_sidebar id="<sidebar id>"]
 
 ### Attributes
-- *id*: the id of the sidebar to be shown.
+- *id*: the id or name of the sidebar to be shown.
